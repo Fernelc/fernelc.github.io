@@ -1,0 +1,1 @@
+To add a CV: place an approved PDF named Fernel-Campher-CV.pdf in the assets folder. In index.html replace href="assets/CV-INSTRUCTIONS.txt" with href="assets/Fernel-Campher-CV.pdf" and replace the button label "CV upload instructions" with "Download CV".
